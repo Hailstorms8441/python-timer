@@ -1,1 +1,1 @@
-To install just copy the code and figure it out yourself
+To run just clone the repo and run the python file in 
